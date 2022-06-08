@@ -1,4 +1,9 @@
-mylist = [10, 20, 30, "string", True, 8.97]
+x = (1, 2, 3)
 
-for x in mylist:
-    print(x)
+x = list(x) # list returns a list in python
+
+x[2] = 10
+
+x = tuple(x)
+
+print(x)
