@@ -1,3 +1,5 @@
+# create a class and instantiate it with variables and methods
+
 class Recipe():
     def __init__(self, dish, items, time) -> None:
         self.dish = dish
@@ -15,3 +17,4 @@ print(pizza.items)
 print(pasta.items)
 
 print(pizza.contents())
+
