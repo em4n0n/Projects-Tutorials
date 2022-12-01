@@ -1,2 +1,2 @@
 import random
-print(random.randint(5, 6))
+print(random.randint(500, 599))
