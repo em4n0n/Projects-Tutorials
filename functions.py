@@ -1,5 +1,6 @@
 def add_one(x):
-    return x+1
+    return x - 1
 
-y = add_one(5)
-print(y)
+x = add_one(2)
+
+print(x)
