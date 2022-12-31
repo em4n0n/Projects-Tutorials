@@ -1,2 +1,2 @@
 # Tutorials
- Tutorials & Practice
+ Neural Nine Tutorials
